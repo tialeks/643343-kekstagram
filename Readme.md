@@ -1,7 +1,7 @@
-# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alex Ander](https://up.htmlacademy.ru/javascript/13/user/643343).
-* Наставник: `Неизвестно`.
+* Наставник: `Арсений Ильяшов`.
 
 ---
 
